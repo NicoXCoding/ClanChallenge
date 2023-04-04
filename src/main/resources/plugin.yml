@@ -1,0 +1,6 @@
+name: ClansChallenge
+version: '${project.version}'
+main: com.nicocoding.ClansChallenge
+commands:
+  clan:
+    usage:
